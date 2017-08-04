@@ -1,0 +1,45 @@
+<ion-header >
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+
+     <!--<ion-buttons end>
+    <span>
+        <i class="icon ion-home barTitle">{{sname}}</i>
+    </span>
+  </ion-buttons>-->
+
+    <!--<ion-title>Ayah List</ion-title>-->
+      <i class="icon ion-home barTitle">Surah: {{sname}} (Total Verses = {{totvers}})</i>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+ 
+<ion-searchbar (ionInput)="getItems1($event)"></ion-searchbar>
+    
+  <ion-list>
+ <!--<button menuClose ion-item (click)="openIntroPage()">Introduction to Surah {{sname}} </button>-->
+  <button menuClose ion-item *ngFor="let ayah of surahdata" (click)="openAyah(ayah)">
+
+ <span *ngIf="ayah.VerseNo == 0">Introduction to Surah: {{sname}}</span>
+ <span *ngIf="ayah.VerseNo !== 0">VerseNo: {{ayah.VerseNo}}</span>
+ <!--<span *ngIf="ayah.VerseNo !== 0">AText: {{ayah.ArabicText}}</span>-->
+  </button>
+
+<!--
+<div>{{ayah.ArabicText}}</div>
+
+<div>{{ayah.EnglishTranslation}}</div>
+
+<div>{{ayah.Comments}}</div>-->
+
+
+
+
+      
+   
+  </ion-list>
+
+  </ion-content>

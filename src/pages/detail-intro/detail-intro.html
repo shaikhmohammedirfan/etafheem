@@ -1,0 +1,37 @@
+
+<ion-header >
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+      <ion-buttons end>
+    <span>
+    
+<button primary (click)="slideToPrev()">Prev</button>
+<button secondary (click)="slideToNext()">Next</button>
+    </span>
+  </ion-buttons>
+
+    <!--<ion-title>Introduction</ion-title>-->
+    <i class="icon ion-home barTitle">Introduction</i>
+  </ion-navbar>
+</ion-header>
+
+<ion-content >
+
+<ion-slides  pager ="true" parallax="true"   #slides>
+
+  <ion-slide   *ngFor="let dtl of introDTL">
+    
+
+    <div class="EComm">{{dtl.Sno}}</div>
+
+   <div class="ENtr"> {{dtl.Content}}</div>
+
+  </ion-slide>
+
+
+  
+</ion-slides>
+
+</ion-content>

@@ -1,0 +1,26 @@
+<ion-menu [content]="content">
+  <ion-header>
+    <ion-toolbar color="royal">
+      <ion-title>Menu</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
+    
+    <ion-list>
+       <button  class="item-icon-left" menuClose ion-item (click)="openHomePage()" >Home</button>
+      
+      <button menuClose ion-item *ngFor="let item of items" (click)="openPage(item)">
+       {{item.Sno}} - {{item.SurahName}} 
+      </button>
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>
+
+
+ 

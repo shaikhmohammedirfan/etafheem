@@ -1,0 +1,575 @@
+  [
+    {
+      "Sno": 1,
+      "SurahName": "Al-Fatihah",
+      "URL": "#/app/1"
+    },
+
+
+
+    {
+      "Sno": 2,
+      "SurahName": "Al-Baqarah",
+      "URL": "#/app/2 "
+    },
+    {
+      "Sno": 3,
+      "SurahName": "Aal-`Imran",
+      "URL": "#/app/3"
+    },
+    {
+      "Sno": 4,
+      "SurahName": "An-Nisa",
+      "URL": "#/app/4"
+    },
+    {
+      "Sno": 5,
+      "SurahName": "Al-Ma`idah",
+      "URL": "#/app/5"
+    },
+    {
+      "Sno": 6,
+      "SurahName": "Al-An`am",
+      "URL": "#/app/6"
+    },
+    {
+      "Sno": 7,
+      "SurahName": "Al-A`raf",
+      "URL": "#/app/7"
+    },
+    {
+      "Sno": 8,
+      "SurahName": "Al-Anfal",
+      "URL": "#/app/8"
+    },
+    {
+      "Sno": 9,
+      "SurahName": "At-Taubah",
+      "URL": "#/app/9"
+    },
+    {
+      "Sno": 10,
+      "SurahName": "Yunus",
+      "URL": "#/app/10"
+    },
+    {
+      "Sno": 11,
+      "SurahName": "Hud",
+      "URL": "#/app/11"
+    },
+    {
+      "Sno": 12,
+      "SurahName": "Yusuf",
+      "URL": "#/app/12"
+    },
+    {
+      "Sno": 13,
+      "SurahName": "Ar-Ra`ad",
+      "URL": "#/app/13"
+    },
+    {
+      "Sno": 14,
+      "SurahName": "Ibrahim",
+      "URL": "#/app/14"
+    },
+    {
+      "Sno": 15,
+      "SurahName": "Al-Hijr",
+      "URL": "#/app/15"
+    },
+    {
+      "Sno": 16,
+      "SurahName": "An-Nahl",
+      "URL": "#/app/16"
+    },
+    {
+      "Sno": 17,
+      "SurahName": "Al-Isra",
+      "URL": "#/app/17"
+    },
+    {
+      "Sno": 18,
+      "SurahName": "Al-Kahf",
+      "URL": "#/app/18"
+    },
+    {
+      "Sno": 19,
+      "SurahName": "Maryam",
+      "URL": "#/app/19"
+    },
+    {
+      "Sno": 20,
+      "SurahName": "Ta Ha",
+      "URL": "#/app/20"
+    },
+    {
+      "Sno": 21,
+      "SurahName": "Al-Anbiyaa",
+      "URL": "#/app/21"
+    },
+    {
+      "Sno": 22,
+      "SurahName": "Al-Hajj",
+      "URL": "#/app/22"
+    },
+    {
+      "Sno": 23,
+      "SurahName": "Al-Mu`minun",
+      "URL": "#/app/23"
+    },
+    {
+      "Sno": 24,
+      "SurahName": "An-Nur",
+      "URL": "#/app/24"
+    },
+    {
+      "Sno": 25,
+      "SurahName": "Al-Furqan",
+      "URL": "#/app/25"
+    },
+    {
+      "Sno": 26,
+      "SurahName": "Ash-Shu`ara",
+      "URL": "#/app/26"
+    },
+    {
+      "Sno": 27,
+      "SurahName": "An-Naml",
+      "URL": "#/app/27"
+    },
+    {
+      "Sno": 28,
+      "SurahName": "Al-Qasas",
+      "URL": "#/app/28"
+    },
+    {
+      "Sno": 29,
+      "SurahName": "Al-Ankabut",
+      "URL": "#/app/29"
+    },
+    {
+      "Sno": 30,
+      "SurahName": "Ar-Rum",
+      "URL": "#/app/30"
+    },
+    {
+      "Sno": 31,
+      "SurahName": "Luqman",
+      "URL": "#/app/31"
+    },
+    {
+      "Sno": 32,
+      "SurahName": "As-Sajdah",
+      "URL": "#/app/32"
+    },
+    {
+      "Sno": 33,
+      "SurahName": "Al-Ahzab",
+      "URL": "#/app/33"
+    },
+    {
+      "Sno": 34,
+      "SurahName": "Saba",
+      "URL": "#/app/34"
+    },
+    {
+      "Sno": 35,
+      "SurahName": "Fatir",
+      "URL": "#/app/35"
+    },
+    {
+      "Sno": 36,
+      "SurahName": "Ya-Sin",
+      "URL": "#/app/36"
+    },
+    {
+      "Sno": 37,
+      "SurahName": "As-Saffaat",
+      "URL": "#/app/37"
+    },
+    {
+      "Sno": 38,
+      "SurahName": "Saad",
+      "URL": "#/app/38"
+    },
+    {
+      "Sno": 39,
+      "SurahName": "Az-Zumar",
+      "URL": "#/app/39"
+    },
+    {
+      "Sno": 40,
+      "SurahName": "Ghafir",
+      "URL": "#/app/40"
+    },
+    {
+      "Sno": 41,
+      "SurahName": "Fussilat",
+      "URL": "#/app/41"
+    },
+    {
+      "Sno": 42,
+      "SurahName": "Ash-Shura",
+      "URL": "#/app/42"
+    },
+    {
+      "Sno": 43,
+      "SurahName": "Az-Zukhruf",
+      "URL": "#/app/43"
+    },
+    {
+      "Sno": 44,
+      "SurahName": "Ad-Dukhan",
+      "URL": "#/app/44"
+    },
+    {
+      "Sno": 45,
+      "SurahName": "Al-Jathiyah",
+      "URL": "#/app/45"
+    },
+    {
+      "Sno": 46,
+      "SurahName": "Al-Ahqaf",
+      "URL": "#/app/46"
+    },
+    {
+      "Sno": 47,
+      "SurahName": "Muhammad",
+      "URL": "#/app/47"
+    },
+    {
+      "Sno": 48,
+      "SurahName": "Al-Fath",
+      "URL": "#/app/48"
+    },
+    {
+      "Sno": 49,
+      "SurahName": "Al-Hujuraat",
+      "URL": "#/app/49"
+    },
+    {
+      "Sno": 50,
+      "SurahName": "Qaf",
+      "URL": "#/app/50"
+    },
+    {
+      "Sno": 51,
+      "SurahName": "Adh-Dhariyat",
+      "URL": "#/app/51"
+    },
+    {
+      "Sno": 52,
+      "SurahName": "At-Tur",
+      "URL": "#/app/52"
+    },
+    {
+      "Sno": 53,
+      "SurahName": "An-Najm",
+      "URL": "#/app/53"
+    },
+    {
+      "Sno": 54,
+      "SurahName": "Qamar",
+      "URL": "#/app/54"
+    },
+    {
+      "Sno": 55,
+      "SurahName": "Ar-Rahman",
+      "URL": "#/app/55"
+    },
+    {
+      "Sno": 56,
+      "SurahName": "Al-Waqi`ah",
+      "URL": "#/app/56"
+    },
+    {
+      "Sno": 57,
+      "SurahName": "Al-Hadid",
+      "URL": "#/app/57"
+    },
+    {
+      "Sno": 58,
+      "SurahName": "Al-Mujadilah",
+      "URL": "#/app/58"
+    },
+    {
+      "Sno": 59,
+      "SurahName": "Al-Hashr",
+      "URL": "#/app/59"
+    },
+    {
+      "Sno": 60,
+      "SurahName": "Al-Mumtahinah",
+      "URL": "#/app/60"
+    },
+    {
+      "Sno": 61,
+      "SurahName": "As-Saff",
+      "URL": "#/app/61"
+    },
+    {
+      "Sno": 62,
+      "SurahName": "Al-Jumu`ah",
+      "URL": "#/app/62"
+    },
+    {
+      "Sno": 63,
+      "SurahName": "Al-Munafiqun",
+      "URL": "#/app/63"
+    },
+    {
+      "Sno": 64,
+      "SurahName": "At-Taghabun",
+      "URL": "#/app/64"
+    },
+    {
+      "Sno": 65,
+      "SurahName": "At-Talaaq",
+      "URL": "#/app/65"
+    },
+    {
+      "Sno": 66,
+      "SurahName": "At-Tahrim",
+      "URL": "#/app/66"
+    },
+    {
+      "Sno": 67,
+      "SurahName": "Al-Mulk",
+      "URL": "#/app/67"
+    },
+    {
+      "Sno": 68,
+      "SurahName": "Al-Qalam",
+      "URL": "#/app/68"
+    },
+    {
+      "Sno": 69,
+      "SurahName": "Al-Haqqah",
+      "URL": "#/app/69"
+    },
+    {
+      "Sno": 70,
+      "SurahName": "Al-Ma`arij",
+      "URL": "#/app/70"
+    },
+    {
+      "Sno": 71,
+      "SurahName": "Nuh",
+      "URL": "#/app/71"
+    },
+    {
+      "Sno": 72,
+      "SurahName": "Al-Jinn",
+      "URL": "#/app/72"
+    },
+    {
+      "Sno": 73,
+      "SurahName": "Al-Muzzammil",
+      "URL": "#/app/73"
+    },
+    {
+      "Sno": 74,
+      "SurahName": "Al-Muddathir",
+      "URL": "#/app/74"
+    },
+    {
+      "Sno": 75,
+      "SurahName": "Al-Qiyamah",
+      "URL": "#/app/75"
+    },
+    {
+      "Sno": 76,
+      "SurahName": "Al-Insan",
+      "URL": "#/app/76"
+    },
+    {
+      "Sno": 77,
+      "SurahName": "Al-Mursalaat",
+      "URL": "#/app/77"
+    },
+    {
+      "Sno": 78,
+      "SurahName": "An-Naba",
+      "URL": "#/app/78"
+    },
+    {
+      "Sno": 79,
+      "SurahName": "An-Nazi`aat",
+      "URL": "#/app/79"
+    },
+    {
+      "Sno": 80,
+      "SurahName": "Abasa",
+      "URL": "#/app/80"
+    },
+    {
+      "Sno": 81,
+      "SurahName": "At-Takwir",
+      "URL": "#/app/81"
+    },
+    {
+      "Sno": 82,
+      "SurahName": "Al-Infitaar",
+      "URL": "#/app/82"
+    },
+    {
+      "Sno": 83,
+      "SurahName": "Al-Mutaffifin",
+      "URL": "#/app/83"
+    },
+    {
+      "Sno": 84,
+      "SurahName": "Al-Inshiqaq",
+      "URL": "#/app/84"
+    },
+    {
+      "Sno": 85,
+      "SurahName": "Al-Burooj",
+      "URL": "#/app/85"
+    },
+    {
+      "Sno": 86,
+      "SurahName": "At-Tariq",
+      "URL": "#/app/86"
+    },
+    {
+      "Sno": 87,
+      "SurahName": "Al-A`la",
+      "URL": "#/app/87"
+    },
+    {
+      "Sno": 88,
+      "SurahName": "Al-Ghaashiyah",
+      "URL": "#/app/88"
+    },
+    {
+      "Sno": 89,
+      "SurahName": "Al-Fajr",
+      "URL": "#/app/89"
+    },
+    {
+      "Sno": 90,
+      "SurahName": "Al-Balad",
+      "URL": "#/app/90"
+    },
+    {
+      "Sno": 91,
+      "SurahName": "Ash-Shams",
+      "URL": "#/app/91"
+    },
+    {
+      "Sno": 92,
+      "SurahName": "Al-Lail",
+      "URL": "#/app/92"
+    },
+    {
+      "Sno": 93,
+      "SurahName": "Ad-Duha",
+      "URL": "#/app/93"
+    },
+    {
+      "Sno": 94,
+      "SurahName": "Ash-Sharh",
+      "URL": "#/app/94"
+    },
+    {
+      "Sno": 95,
+      "SurahName": "At-Tin",
+      "URL": "#/app/95"
+    },
+    {
+      "Sno": 96,
+      "SurahName": "Al-Alaq",
+      "URL": "#/app/96"
+    },
+    {
+      "Sno": 97,
+      "SurahName": "Al-Qadr",
+      "URL": "#/app/97"
+    },
+    {
+      "Sno": 98,
+      "SurahName": "Al-Baiyyinah",
+      "URL": "#/app/98"
+    },
+    {
+      "Sno": 99,
+      "SurahName": "Az-Zalzalah",
+      "URL": "#/app/99"
+    },
+    {
+      "Sno": 100,
+      "SurahName": "Al-Aadiyaat",
+      "URL": "#/app/100"
+    },
+    {
+      "Sno": 101,
+      "SurahName": "Al-Qari`ah",
+      "URL": "#/app/101"
+    },
+    {
+      "Sno": 102,
+      "SurahName": "At-Takaathur",
+      "URL": "#/app/102"
+    },
+    {
+      "Sno": 103,
+      "SurahName": "Al-Asr",
+      "URL": "#/app/103"
+    },
+    {
+      "Sno": 104,
+      "SurahName": "Al-Humazah",
+      "URL": "#/app/104"
+    },
+    {
+      "Sno": 105,
+      "SurahName": "Al-Feel",
+      "URL": "#/app/105"
+    },
+    {
+      "Sno": 106,
+      "SurahName": "Quraish",
+      "URL": "#/app/106"
+    },
+    {
+      "Sno": 107,
+      "SurahName": "Al-Maa`oon",
+      "URL": "#/app/107"
+    },
+    {
+      "Sno": 108,
+      "SurahName": "Al-Kauthar",
+      "URL": "#/app/108"
+    },
+    {
+      "Sno": 109,
+      "SurahName": "Al-Kaafiroon",
+      "URL": "#/app/109"
+    },
+    {
+      "Sno": 110,
+      "SurahName": "An-Nasr",
+      "URL": "#/app/110"
+    },
+    {
+      "Sno": 111,
+      "SurahName": "Al-Masad",
+      "URL": "#/app/111"
+    },
+    {
+      "Sno": 112,
+      "SurahName": "Al-Ikhlaas",
+      "URL": "#/app/112"
+    },
+    {
+      "Sno": 113,
+      "SurahName": "Al-Falaq",
+      "URL": "#/app/113"
+    },
+    {
+      "Sno": 114,
+      "SurahName": "An-Naas",
+      "URL": "#/app/114"
+    }
+  ]
